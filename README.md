@@ -1,5 +1,11 @@
 # Aridio Silva
 
+## Background
+
+My professional career in software development began in 1977, providing a long-term perspective on the evolution of software architecture, distributed systems, security engineering, and Artificial Intelligence.
+
+Today, my research focuses on the architectural and governance challenges introduced by autonomous and distributed AI systems.
+
 **Independent Researcher | AI Systems Architecture | Agentic AI | Edge AI | AI Security & Governance**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2411--6995-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2411-6995)
