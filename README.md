@@ -66,5 +66,9 @@ https://doi.org/10.5281/zenodo.22557796
 **Aridio Silva**
 Independent Researcher — Brazil
 
-ORCID:
-https://orcid.org/0009-0008-2411-6995
+- **ORCID:** [](https://orcid.org/0009-0008-2411-6995)
+- **Google Scholar:** [](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&q=Aridio+Silva&btnG=)
+- **LinkedIn:** [](https://www.linkedin.com/in/aridio-silva-74997111/)
+- **GitHub:** [](https://github.com/aridiosilva)
+- **SGAEIA:** [](https://github.com/aridiosilva/SGAEIA)
+- **Zenodo:** [](https://doi.org/10.5281/zenodo.22557796)
