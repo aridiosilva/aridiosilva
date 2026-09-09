@@ -67,7 +67,7 @@ https://doi.org/10.5281/zenodo.22557796
 Independent Researcher — Brazil
 
 - **ORCID:** https://orcid.org/0009-0008-2411-6995
-- **Google Scholar:** https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&q=Aridio+Silva&btnG=
+- **Google Scholar:** https://scholar.google.com/citations?hl=pt-BR&user=rPn5O48AAAAJ
 - **LinkedIn:** https://www.linkedin.com/in/aridio-silva-74997111/
 - **GitHub:** https://github.com/aridiosilva
 - **SGAEIA:** https://github.com/aridiosilva/SGAEIA
