@@ -83,3 +83,4 @@ Independent Researcher — Brazil
 - **Zenodo:** https://doi.org/10.5281/zenodo.22557796
 - **LinkedIn:** https://www.linkedin.com/in/aridio-silva-74997111/
 - **SGAEIA:** https://github.com/aridiosilva/SGAEIA
+- **medium.com** https://medium.com/@aridiosilva
