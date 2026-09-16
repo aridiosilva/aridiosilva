@@ -84,3 +84,4 @@ Independent Researcher — Brazil
 - **LinkedIn:** https://www.linkedin.com/in/aridio-silva-74997111/
 - **SGAEIA:** https://github.com/aridiosilva/SGAEIA
 - **medium.com** https://medium.com/@aridiosilva
+- **openaire;** https://explore.openaire.eu/search/find?fv0=Aridio%20Silva&f0=q
