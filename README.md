@@ -74,14 +74,16 @@ Independent Researcher — Brazil
 
 ## Research Profiles
 
-**Aridio Silva**  
+**Aridio Silva**
 Independent Researcher — Brazil
 
-- **ORCID:** https://orcid.org/0009-0008-2411-6995
-- **Google Scholar:** https://scholar.google.com/citations?user=rPn5O48AAAAJ
-- **GitHub:** https://github.com/aridiosilva
-- **Zenodo:** https://doi.org/10.5281/zenodo.22557796
-- **LinkedIn:** https://www.linkedin.com/in/aridio-silva-74997111/
-- **SGAEIA:** https://github.com/aridiosilva/SGAEIA
-- **medium.com** https://medium.com/@aridiosilva
-- **openaire;** https://explore.openaire.eu/search/find?fv0=Aridio%20Silva&f0=q
+* **ORCID:** https://orcid.org/0009-0008-2411-6995
+* **Google Scholar:** https://scholar.google.com/citations?user=rPn5O48AAAAJ
+* **Zenodo — SGAEIA Community:** https://zenodo.org/communities/sgaeia
+* **OpenAIRE:** https://explore.openaire.eu/search/find?fv0=Aridio%20Silva&f0=q
+* **Medium:** https://medium.com/@aridiosilva
+* **GitHub:** https://github.com/aridiosilva
+* **LinkedIn:** https://www.linkedin.com/in/aridio-silva-74997111/
+* **SGAEIA Repository:** https://github.com/aridiosilva/SGAEIA
+* **SGAEIA Research Artifact / DOI:** https://doi.org/10.5281/zenodo.22557796
+
