@@ -87,5 +87,5 @@ Independent Researcher — Brazil
 * **SGAEIA Repository:** https://github.com/aridiosilva/SGAEIA
 * **SGAEIA Research Artifact / DOI:** https://doi.org/10.5281/zenodo.22557796
 * **homepage:** https://aridiosilva.com
-* **homepage SGAEIA:** https://aridiosilva.com/sgaeia/
+* **homepage SGAEIA:** https://aridiosilva.com/sgaeia
 * **SGAEIA LinkedIn:** https://www.linkedin.com/company/sgaeia/
