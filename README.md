@@ -90,4 +90,4 @@ Independent Researcher — Brazil
 * **homepage SGAEIA:** https://aridiosilva.com/sgaeia
 * **SGAEIA LinkedIn:** https://www.linkedin.com/company/sgaeia/
 * **Kaggle**: https://www.kaggle.com/aridiosilva2
-* 
+  
