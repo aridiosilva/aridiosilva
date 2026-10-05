@@ -92,4 +92,6 @@ Independent Researcher — Brazil
 * **Kaggle**: https://www.kaggle.com/aridiosilva2
 * **stackoverflow:** https://stackoverflow.com/users/8957759/aridio-silva
 * **DEV COMMUNITY:** https://dev.to/aridiosilva
+* **Academy.edu:** https://independent.academia.edu/AridioSilva
+  
   
