@@ -15,7 +15,7 @@ Today, my research focuses on the architectural and governance challenges introd
 **Independent Researcher | AI Systems Architecture | Agentic AI | Edge AI | AI Security & Governance**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2411--6995-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2411-6995)
-[![SGAEIA](https://img.shields.io/badge/Research-SGAEIA-blue)](https://github.com/aridiosilva/SGAEIA)
+[![SGAEIA](https://img.shields.io/badge/Research-SGAEIA-blue)](https://aridiosilva.com/SGAEIA)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22557796.svg)](https://doi.org/10.5281/zenodo.22557796)
 
 I am an independent researcher and technology professional based in Brazil, with a research focus on the architecture, security, governance, and trustworthiness of distributed and autonomous Artificial Intelligence systems.
